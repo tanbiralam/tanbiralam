@@ -8,11 +8,7 @@
 
 - ⚡ Fact: I need a ciggerate after fixing the bug.
 
-Visitor's Count : 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tanbiralam/count.svg" />
-</p>
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
