@@ -1,4 +1,4 @@
-##  a Programmer, Designer and Artist!!
+##  a Programmer, Designer and an Artist!!
 
 
 - An Enthusiastic about new technology.
