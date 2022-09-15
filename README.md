@@ -43,17 +43,6 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanbiralam&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbiralam&theme=buefy&layout=compact" />
-</a>
-
-</details>
-
-
 ### Connect with me:
 
 <p>
