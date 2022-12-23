@@ -6,7 +6,7 @@
 - Studying Computer Science at Techno India University.
 - Looking for React Developer Internships.
 
-- ⚡ Fact: I need a ciggerate after fixing the bug.
+- ⚡ Fact: I need a cigarette after fixing the bug.
 
 
 
