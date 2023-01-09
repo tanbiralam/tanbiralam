@@ -1,7 +1,7 @@
 ##  a Programmer, Designer and an Artist!!
 
 
-- An Enthusiastic about new technology.
+- An Enthusiast about new technology.
 - You can call me a web developer, a game developer and a movie/anime freak.
 - Studying Computer Science at Techno India University.
 - Looking for React Developer Internships.
