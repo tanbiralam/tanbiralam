@@ -75,7 +75,7 @@ Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
 
 ###
 
-<img src="/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tanbiralam/tanbiralam/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
