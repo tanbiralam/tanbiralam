@@ -2,13 +2,7 @@
 
 ###
 
-<p align="center">Greetings! I'm Tanbir, a final-year Computer Science undergraduate from Kolkata, India. As a freelance full-stack developer, I'm deeply passionate about coding. Although I humorously attribute my occasional bug-hunting to my need for a smoke break, the thrill of solving coding challenges truly drives me. 😂 My interests span a wide spectrum—from art, history, philosophy, and classical music to physics and mathematics. In essence, I'm fueled by an insatiable curiosity for all things intriguing.
-
-<br>
-On the entertainment front, I'm a devoted movie aficionado, with "Pulp Fiction" holding a special place as my all-time favorite film. And in the spirit of the saying, "All work and no play makes Tanbir a dull boy," I thoroughly enjoy playing football during my downtime. Moreover, I'm a staunch admirer of Cristiano Ronaldo, undoubtedly the 🐐.
-
-<br>
-Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
+<p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐.<br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break. 🚬</p>
 
 ###
 
@@ -84,22 +78,22 @@ Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tanbiralam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/iamtanbirr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:itzmetanbir@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
   <a href="discordapp.com/users/633177457075421224" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/iamtanvirrrr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/tanbirrr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
   </a>
 </div>
 
