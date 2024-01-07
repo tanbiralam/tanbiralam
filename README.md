@@ -2,13 +2,7 @@
 
 ###
 
-<p align="center">Greetings! I'm Tanbir, a final-year Computer Science undergraduate from Kolkata, India. As a freelance full-stack developer, I'm deeply passionate about coding. Although I humorously attribute my occasional bug-hunting to my need for a smoke break, the thrill of solving coding challenges truly drives me. 😂 My interests span a wide spectrum—from art, history, philosophy, and classical music to physics and mathematics. In essence, I'm fueled by an insatiable curiosity for all things intriguing.
-
-<br>
-On the entertainment front, I'm a devoted movie aficionado, with "Pulp Fiction" holding a special place as my all-time favorite film. And in the spirit of the saying, "All work and no play makes Tanbir a dull boy," I thoroughly enjoy playing football during my downtime. Moreover, I'm a staunch admirer of Cristiano Ronaldo, undoubtedly the 🐐.
-
-<br>
-Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
+<p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐.<br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break. 🚬</p>
 
 ###
 
@@ -68,13 +62,6 @@ Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanbiralam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbiralam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/tanbiralam/tanbiralam/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -85,22 +72,22 @@ Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tanbiralam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/iamtanbirr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:itzmetanbir@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
   <a href="discordapp.com/users/633177457075421224" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/iamtanvirrrr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/tanbirrr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
   </a>
 </div>
 
@@ -108,14 +95,24 @@ Fun Fact: My post-bug-fix ritual? A brisk cigarette break. 🚬</p>
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47uugj1uros2dhxljcimhp4p2apbjwi8qezlqc3kh7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" src="https://media1.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47uugj1uros2dhxljcimhp4p2apbjwi8qezlqc3kh7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/mhyqdw29q6hir1j8ax32xlrrm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=mhyqdw29q6hir1j8ax32xlrrm&count=4&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanbiralam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbiralam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tanbiralam&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
