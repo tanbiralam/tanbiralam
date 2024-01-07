@@ -62,7 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tanbiralam/tanbiralam/output/snake.svg" alt="Snake animation" />
 
 ###
 
