@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐.<br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break. 🚬</p>
+<p align="center">This is Tanbir, a final-year CS undergrad student from Techno India University, Kolkata, India. I work as a freelance full-stack developer and have a strong passion for coding. I enjoy delving into code and fixing bugs, although it's not just an excuse to take a smoke break! 😂 My interests are varied, ranging from art, history, philosophy, and classical music to physics and mathematics. In simple terms, I am driven by a constant curiosity for anything intriguing. Additionally, I am a dedicated movie buff. To balance work and leisure, I love playing football in my free time. And of course, I am a huge fan of Cristiano Ronaldo 🐐.</p>
 
 ###
 
