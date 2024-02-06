@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐. <br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break. 🚬  <br><br>PS: I use chatgpt 😂
+<p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐. <br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break. 🚬  <br><br>PS: I used chatgpt 😂
 </p>
 
 ###
