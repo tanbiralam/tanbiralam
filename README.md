@@ -4,7 +4,6 @@
 
 <p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐. <br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break. 🚬  <br><br>PS: I used chatgpt 😂
 </p>
-
 ###
 
 <h1 align="left">⚙️Technologies</h1>
@@ -112,6 +111,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanbiralam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbiralam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tanbiralam&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
