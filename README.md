@@ -2,7 +2,16 @@
 
 ###
 
-<p align="center">This is Tanbir, a final-year CS undergraduate student from Kolkata, India. I'm a freelance full-stack developer with a deep passion for coding. While I jest about it, I do enjoy diving into code and hunting down bugs—though not just for the excuse to have a smoke! 😂 My interests are diverse and eclectic: from art, history, philosophy, and classical music to physics and mathematics. Simply put, I'm driven by an insatiable curiosity for all things fascinating. Additionally, I'm a devoted movie enthusiast. Following the adage that "All work and no play makes Jack a dull boy," I relish playing football during my leisure time. And yes, I'm an ardent admirer of Cristiano Ronaldo 🐐. <br><br>Fun Fact: My ritual after fixing a bug? A swift cigarette break.  <br><br>PS: I used chatgpt 😂
+<p align="center">
+Hey there! I’m Tanbir, a Full Stack Web Developer who loves building web apps that don’t just work—they engage, inspire, and make an impact. Right now, I’m crafting platforms at <b>A2M Technologies PVT LTD & AcceleratorX</b>, helping people upskill, connect with mentors, and land their dream jobs.  
+
+I live and breathe <b>React, TypeScript, and Tailwind CSS</b>, making sure everything I build is fast, scalable, and smooth. Also, I’m all about pushing boundaries with <b>AI</b>, creating solutions that aren’t just for today but ready for whatever’s next.  
+
+Beyond coding, I’m just <i>fascinated by everything</i>—art, history, philosophy, classical music, physics, you name it. But <b>football? That’s my true escape</b>. Huge <b>Cristiano Ronaldo fan</b> 🐐, and whether it’s watching a match or playing, I’m all in. Movies are another go-to—because what’s better than a good story?  
+
+<br><br><b>Fun Fact:</b> Fixing a bug? That’s my 90th-minute winning goal moment. My ritual? <i>Light up a cigarette, take a breath, and soak it in.</i>  
+
+<br><br>PS: I used ChatGPT 😂  
 </p>
 
 
