@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-Hey there! I’m Tanbir, a Full Stack Web Developer who loves building web apps that don’t just work—they engage, inspire, and make an impact. Right now, I’m crafting platforms at <b>A2M Technologies PVT LTD & AcceleratorX</b>, helping people upskill, connect with mentors, and land their dream jobs.  
+Hey there! I’m Tanbir, a Full Stack Web Developer who loves building web apps that don’t just work—they engage, inspire, and make an impact.
 
 I live and breathe <b>React, TypeScript, and Tailwind CSS</b>, making sure everything I build is fast, scalable, and smooth. Also, I’m all about pushing boundaries with <b>AI</b>, creating solutions that aren’t just for today but ready for whatever’s next.  
 
