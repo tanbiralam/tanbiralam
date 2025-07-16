@@ -11,7 +11,7 @@ Beyond coding, I’m just <i>fascinated by everything</i>—art, history, philos
 
 <br><br><b>Fun Fact:</b> Fixing a bug? That’s my 90th-minute winning goal moment. My ritual? <i>Light up a cigarette, take a breath, and soak it in.</i>  
 
-<br><br>PS: I used ChatGPT 😂  
+<br><br>PS: I used ChatGPT   
 </p>
 
 
